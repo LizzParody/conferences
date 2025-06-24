@@ -1,2 +1,21 @@
-# conferences
-List of some conferences I have participated
+# Conferences & Speaking Engagements
+A selection of conferences where I’ve presented, along with videos I’ve produced or contributed to.
+
+- [New and Exciting Features in Node.js - Lizz Parody | NodeConf EU 2022](https://www.youtube.com/watch?v=HssUpyhdInU)
+- [State of Node.js Performance 2024](https://youtu.be/d9KZ33RnlFw)
+- [GitHub Presente con Liz Parody & Bezael Pérez](https://www.youtube.com/watch?v=m0m0CdB13wI&ab_channel=GitHub?t=47)
+- [Examining Observability in Node.js](https://www.youtube.com/watch?v=6DNtut9YN0Q&ab_channel=JavaScriptConferencesbyGitNation)
+- [Keynote Panel: 2020 Tech Trends Predictions](https://www.youtube.com/watch?v=By1-aNeGQ9U&ab_channel=node.js)
+- [Bate papo com Liz Parody - Head of Developer Relations na NodeSource](https://www.youtube.com/watch?v=rRZx0EWAbR4&ab_channel=ErickWendel?t=2m30s)
+- [Behind the Scenes of Node.js Distributions](https://www.youtube.com/watch?v=1nYswjtEUvE&t=9s&ab_channel=OpenJSFoundation)
+- [A JavaScript Parody: A Fun Journey through Hot Topics of Node.js and JS](https://www.youtube.com/watch?v=hTD7-YSVff0&ab_channel=node.js)
+- [Maximizing Node.js Performance](https://www.youtube.com/watch?v=fM3iO9rkz20&t=1s&ab_channel=NearForm)
+- [Sobre Relaciones y Desarrollo](https://www.youtube.com/watch?v=5hwqME2mqxo&ab_channel=Pioneras)
+- [OpenHive.JS Podcast | Ep. 12 - Liz Parody on building communities](https://www.youtube.com/watch?v=2zyE4iVhOlc&t=4s&ab_channel=NearForm)
+- [How JS is conquering the world… Mapping Javascript Conferences](https://www.youtube.com/watch?v=jWmvsTTlF-s&ab_channel=EmpireJS)
+- [¡Transformando un país a través del código!](https://www.youtube.com/watch?v=-wy4-Vlt8L4&ab_channel=LeonidasEsteban)
+- [Getting Started with Runme](https://www.youtube.com/watch?v=MYQKdtW72Ds&ab_channel=RUNME)
+- [Run your README.md interactively](https://www.youtube.com/watch?v=0RpCmDV4wZg&t=3s&ab_channel=stateful)
+- [5 Things You Didn't Know You Could Do With Markdown](https://www.youtube.com/watch?v=fgCDRytw6Xw&t=1s&ab_channel=RUNME)
+- [Interactive Runbooks Built with Markdown](https://www.youtube.com/watch?v=WQcfkJK3_VE&ab_channel=RUNME)
+- [Save Infrastructure Cost -  N|Solid](https://youtu.be/U1vX_u0ga9A)
