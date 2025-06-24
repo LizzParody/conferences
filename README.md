@@ -14,6 +14,7 @@ A selection of conferences where I’ve presented, along with videos I’ve prod
 - [OpenHive.JS Podcast | Ep. 12 - Liz Parody on building communities](https://www.youtube.com/watch?v=2zyE4iVhOlc&t=4s&ab_channel=NearForm)
 - [How JS is conquering the world… Mapping Javascript Conferences](https://www.youtube.com/watch?v=jWmvsTTlF-s&ab_channel=EmpireJS)
 - [¡Transformando un país a través del código!](https://www.youtube.com/watch?v=-wy4-Vlt8L4&ab_channel=LeonidasEsteban)
+- [Más allá del Monitoreo: Potenciando La Observabilidad en la era de Cloud-Native](https://www.youtube.com/watch?v=BaIsGD51K9k&ab_channel=DevOpsDaysBogot%C3%A1)
 - [Getting Started with Runme](https://www.youtube.com/watch?v=MYQKdtW72Ds&ab_channel=RUNME)
 - [Run your README.md interactively](https://www.youtube.com/watch?v=0RpCmDV4wZg&t=3s&ab_channel=stateful)
 - [5 Things You Didn't Know You Could Do With Markdown](https://www.youtube.com/watch?v=fgCDRytw6Xw&t=1s&ab_channel=RUNME)
