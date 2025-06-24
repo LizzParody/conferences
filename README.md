@@ -1,5 +1,5 @@
 # Conferences & Speaking Engagements
-A selection of conferences where I’ve presented, along with videos I’ve produced or contributed to.
+A selection of some conferences where I’ve presented, along with videos I’ve produced or contributed to.
 
 - [New and Exciting Features in Node.js - Lizz Parody | NodeConf EU 2022](https://www.youtube.com/watch?v=HssUpyhdInU)
 - [State of Node.js Performance 2024](https://youtu.be/d9KZ33RnlFw)
